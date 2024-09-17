@@ -1,3 +1,3 @@
 <?php
-'aaaaaaaaaaaaaaaa'vvvv
+'aaaaaaaaaaaaaaaa'vvvvdddddd
 ?>array_diff_assocddd
